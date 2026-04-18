@@ -4,11 +4,6 @@
 
 I'm a first-year engineering student based in **Agadir, Morocco**, passionate about building end-to-end Machine Learning solutions that solve practical problems — especially using Moroccan open data.
 
-### 🌱 What I'm Currently Working On
-- Developing my **first end-to-end Churn Prediction project** for Moroccan telecom and banking sectors (using Python, Scikit-learn/XGBoost, and Power BI dashboards)
-- Completing the **IBM Data Science Professional Certificate** to strengthen my foundations in Python, SQL, Pandas, and predictive modeling
-- Exploring **PySpark** for scalable Big Data pipelines and **Docker** for clean deployments
-
 ### 📚 What I'm Learning Right Now
 - Advanced **Machine Learning & Deep Learning** (PyTorch + TensorFlow)
 - **SQL** for efficient data querying
